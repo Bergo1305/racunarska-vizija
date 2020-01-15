@@ -1,0 +1,15 @@
+{
+  "A": {
+    "car": 2, "motorcycle": 1
+  },
+  "B": {
+    "car": 4, "truck": 1
+  },
+  "C": {
+    "car": 3
+  },
+  "D": {
+    "car": 3, "motorcycle": 2
+  }
+}
+
